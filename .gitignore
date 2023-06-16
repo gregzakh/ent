@@ -1,0 +1,6 @@
+*
+!.gitignore
+!license
+!AssemblyInfo.cs
+!ent.csproj
+!Program.cs
